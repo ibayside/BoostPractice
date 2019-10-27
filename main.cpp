@@ -107,6 +107,8 @@ int main(int argc, char** argv)
     write_xml("cfg.xml", pt);
 
     std::cout << "test github branch." << std::endl;
+
+    std::cout << "test git branch -b branchname." << std::endl;
     getchar();
 
     return 0;
