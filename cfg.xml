@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<con>
+    <id>1</id>
+    <name>fansy</name>
+    <urls>
+        <url>http://www.csdn.net</url>
+        <url>http:// www.baidu.com</url>
+    </urls>
+</con>
