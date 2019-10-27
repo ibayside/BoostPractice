@@ -105,6 +105,8 @@ int main(int argc, char** argv)
     pt.put("con.name", "andy");
     pt.add("con.urls.url", "http://www.huanqiu.com");
     write_xml("cfg.xml", pt);
+
+    std::cout << "test github branch." << std::endl;
     getchar();
 
     return 0;
